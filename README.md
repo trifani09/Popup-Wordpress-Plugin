@@ -1,15 +1,15 @@
 # Popup-Wordpress-Plugin
 
-Plugin ini adalah sebuah ekstensi untuk WordPress yang memungkinkan pengguna menampilkan pop-up berdasarkan halaman yang sedang dikunjungi. Plugin ini dikembangkan menggunakan WP Scaffold Plugin sebagai fondasi dan menerapkan Object-Oriented Programming (OOP) untuk memastikan kode yang terstruktur dan mudah dikelola.
+This plugin is an extension for WordPress that allows users to display pop-ups based on the page they are visiting. This plugin was developed using the WP Scaffold Plugin as a foundation and implements Object Oriented Programming (OOP).
 
-Fitur
-- Menggunakan OOP dengan PHP Namespace, Trait, dan Interface untuk struktur kode yang optimal.
-- Menerapkan Singleton Pattern untuk memastikan hanya ada satu instance dari kelas utama.
-- Custom Post Type (CPT) & Custom Fields untuk menyimpan data pop-up tanpa bantuan plugin tambahan.
-- Menggunakan WordPress REST API untuk menampilkan pop-up dengan endpoint /wp-json/artistudio/v1/popup.
-- Menggunakan SASS untuk styling yang lebih modular dan efisien.
-- Frontend menggunakan Javascript (vanila) untuk menampilkan pop-up secara dinamis.
-- Keamanan API hanya dapat diakses oleh pengguna yang sudah login.
+Feature
+- Uses OOP with PHP Namespaces, Traits, and Interfaces for optimal code structure.
+- Implemented Singleton Pattern to ensure there is only one instance of the main class.
+- Custom Post Type (CPT) & Custom Fields to save pop-up data without the help of additional plugins.
+- Uses the WordPress REST API to display pop-ups with the /wp-json/artistudio/v1/popup endpoint.
+- Uses SASS for more modular and efficient styling.
+- Frontend uses Javascript (vanilla) to display pop-ups dynamically.
+- API security can only be accessed by logged in users.
 
 Instalasi
 1. Clone Repository
@@ -20,4 +20,3 @@ Instalasi
     link : http://localhost/popup-plugin/wp-admin/
     username : admin
     password : PopupPlugin09
-5. 
