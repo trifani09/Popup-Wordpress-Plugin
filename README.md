@@ -17,6 +17,6 @@ Instalasi
 2. Create db_popup_plugin
 3. Run on terminal php -S localhost:port or http://localhost/popup-plugin/
 4. Run for admin wordpress 
-    link : http://localhost/popup-plugin/wp-admin/
-    username : admin
+    link : http://localhost/popup-plugin/wp-admin/ ,
+    username : admin,
     password : PopupPlugin09
