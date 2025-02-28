@@ -1,0 +1,13 @@
+@import "variables";
+@import "popup";
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.popup-container {
+    background-color: $popup-bg;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}

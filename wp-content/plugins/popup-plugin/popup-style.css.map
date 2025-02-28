@@ -1,0 +1,12 @@
+{
+  "version": 3,
+  "sourceRoot": "",
+  "sources": [
+    "assets/scss/_popup.scss",
+    "assets/scss/_variables.scss",
+    "assets/scss/style.scss"
+  ],
+  "names": [],
+  "mappings": "AAAA;EACI;EACA;EACA;EACA;EACA,YCLO;EDMP;EACA;EACA;;;AELJ;EACI;;;AAGJ;EACI,kBDRO;ECSP;EACA;EACA",
+  "file": "popup-style.css"
+}
